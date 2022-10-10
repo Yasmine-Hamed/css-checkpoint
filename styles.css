@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(6, 122, 95);
+}
+
+.nav{
+    background-color: rgb(6, 116, 90);
+    padding-bottom: 20px;
+}
+
+.nav-links{
+    font-weight: bold;
+    font-size: 13pt;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 10px;
+
+}
+
+.home{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(94, 137, 230);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.home-text{
+    padding-top: 60px;
+}
+ 
+.center{
+    text-align: center;
+}
+
+.about{
+    background-color: rgb(3, 94, 73);
+    text-align: center;
+    color:rgb(242, 249, 251);
+    font-weight: bold;
+}
+
+.about-data {
+    color: rgb(144, 6, 6);
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.z{
+    display:flex;
+    justify-content: space-between;
+    padding-right: 900px;
+}
+
+.pers-data{
+    font-weight: bold;
+}
+
+.work{
+    background-color: rgb(3, 94, 73);
+    text-align: center;
+    color:rgb(242, 249, 251);
+    
+}
+
+.resume{
+    background-color: rgb(3, 94, 73);
+    text-align: center;
+    color:rgb(242, 249, 251);
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.resume-data{
+    color: rgb(144, 6, 6);
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.contact{
+    background-color: rgb(3, 94, 73);
+    text-align: center;
+    color:rgb(242, 249, 251);
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.forms{
+    color:rgb(99, 11, 87);
+    font-size: 15pt;
+}
+
+.footer{
+    display:flex;
+    justify-content: space-around;
+}
+
+.fheadings{
+    color:rgb(242, 249, 251)
+}
